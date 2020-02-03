@@ -1,2 +1,2 @@
 # Santa-cruze-kernel
-new enchilada santa cruze kernel for iiineplus 6 
+new enchilada santa cruze kernel for oneplus 6 
